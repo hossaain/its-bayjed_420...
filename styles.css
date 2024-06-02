@@ -1,5 +1,5 @@
-p,h1,h2::selection{
-  background: #3777;
+*::selection{
+  background: #ff4500;
   color: whitesmoke;
 }
 body {
