@@ -1,7 +1,8 @@
-*::selection{
+p,h1,h2::selection{
   background: #3777;
   color: whitesmoke;
-}body {
+}
+body {
   margin: 0;
   font-family: 'Arial', sans-serif;
   background-color: #f4f4f9;
