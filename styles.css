@@ -1,4 +1,4 @@
-*::selection{
+p::selection{
   background: #ff4500;
   color: whitesmoke;
 }
